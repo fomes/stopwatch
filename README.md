@@ -1,6 +1,6 @@
 # Stopwatch Project
 
-#### [DEMO](https://fomes.github.io/stopwatch)
+#### [DEMO](https://fomes-stopwatch.netlify.app/)
 
 A simple stopwatch with Javascript.
 
